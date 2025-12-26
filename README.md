@@ -1,44 +1,37 @@
-<h1 align="center">👋 Olá, eu sou Dalvan</h1>
+<h1 align="center">👋 Olá, eu sou Dalvan!</h1>
 
 <p align="center">
-  💻 Desenvolvedor em aprendizado constante <br>
-  🚀 Focado em desenvolvimento web e lógica de programação
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" alt="animado"/>
 </p>
 
----
+<h2 align="center">💻 Sobre mim</h2>
 
-## 🧠 Sobre mim
+- 🌱 Atualmente estudando e praticando **programação**
+- 🔍 Buscando entender a **lógica por trás de cada linha de código**
+- 🧱 Construindo projetos **passo a passo**
+- ✨ Foco em **código limpo e boas práticas**
 
-- 🌱 Atualmente estudando e praticando programação  
-- 🔍 Buscando entender a lógica por trás de cada linha de código  
-- 🧱 Construindo projetos passo a passo  
-- ✨ Foco em código limpo e boas práticas  
-
----
-
-## 🚀 Tecnologias que estou aprendendo
+<h2 align="center">🚀 Tecnologias que estou aprendendo</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </p>
 
----
+<h2 align="center">📈 Objetivo</h2>
 
-## 📈 Objetivo
+Criar **aplicações modernas, funcionais e bem estruturadas**, evoluindo a cada projeto e aprendendo com cada erro.
 
-Criar aplicações modernas, funcionais e bem estruturadas, evoluindo um pouco a cada projeto e aprendendo com cada erro.
-
----
-
-## ✨ Frase que me representa
+<h2 align="center">✨ Frase que me representa</h2>
 
 > “Errar faz parte do processo, aprender com o erro é o que faz o programador.”
 
----
+<h2 align="center">🚀 Evoluindo um commit por vez</h2>
 
 <p align="center">
-  🚀 Evoluindo um commit por vez
+  <img src="https://media.giphy.com/media/26xBJu0ri2QzjYBUI/giphy.gif" width="200" alt="codando"/>
 </p>
