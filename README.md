@@ -122,4 +122,3 @@ Cada projeto é uma oportunidade de transformar conhecimento em experiência pr�
   <img src="https://img.shields.io/badge/Keep-Coding-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Keep-Building-orange?style=for-the-badge" />
 </p>
-
